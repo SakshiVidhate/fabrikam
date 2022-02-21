@@ -1,0 +1,35 @@
+﻿body 
+{
+    background-color: rgb(187, 240, 237);
+}
+
+p 
+{
+    margin-left: 50px;
+    background-color: white;
+    color: red;
+    font-size: 15px;
+    font-family: 'Times New Roman';
+}
+
+#marwelcome {
+    position: relative;
+    width: 100%;
+    height: 10%;
+    background-color: rgb(247, 247, 245);
+}
+
+#index {
+    position: relative;
+    width: 100%;
+    height: 10%;
+    text-align: center;
+    background-color: white;
+    font-size: 20px;
+}
+#listStudent {
+    font-family: 'Times New Roman';
+    width: 100%;
+    border-collapse: collapse;
+}
+
